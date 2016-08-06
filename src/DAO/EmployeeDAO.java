@@ -3,6 +3,8 @@ package DAO;
 import java.sql.*;
 import DTO.*;
 
+//welcom github!
+
 public class EmployeeDAO extends CommonDAO {
 
 	public boolean checkLogin(EmployeeDTO emp) throws DAOException {
